@@ -3,7 +3,7 @@
 Module Module1
 
     Sub Main()
-        Dim exampleJsonString = "{ ""UserId"": ""admin"", ""CompanyId"": ""RCD"" }"
+        Dim exampleJsonString = "{ ""UserId"": ""admin"", ""CompanyId"": ""XYZ"" }"
 
         Dim definition = New With {.CompanyId = String.Empty}
 
